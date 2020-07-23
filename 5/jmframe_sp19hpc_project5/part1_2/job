@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH --job-name=jmframe  ### Job Name
+#SBATCH --time=02:00:00     ### WallTime
+#SBATCH --exclude=gpu01     ### This node is heavily used
+#SBATCH --nodes=1           ### Number of Nodes
+#SBATCH --ntasks-per-node=1 ### Number of tasks (MPI processes)
+#SBATCH --cpus-per-task=1   ### Number of threads per task (OMP threads)
+#SBATCH -o OUT_part1_2.out    ### Write any errors here
+#SBATCH -e ERR_part1_2.error  ### Write the output here
+ 
+export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
+ 
+srun ./program

@@ -1,0 +1,91 @@
+For the number of threads 1, calculation 1 of 5
+Time of computation: 53.126479 seconds
+For the number of threads 1, calculation 2 of 5
+Time of computation: 53.538364 seconds
+For the number of threads 1, calculation 3 of 5
+Time of computation: 53.396959 seconds
+For the number of threads 1, calculation 4 of 5
+Time of computation: 53.421759 seconds
+For the number of threads 1, calculation 5 of 5
+Time of computation: 45.409045 seconds
+The average time of computation for 1 threads is: 51.778521 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 2, calculation 1 of 5
+Time of computation: 24.188745 seconds
+For the number of threads 2, calculation 2 of 5
+Time of computation: 24.882963 seconds
+For the number of threads 2, calculation 3 of 5
+Time of computation: 23.940952 seconds
+For the number of threads 2, calculation 4 of 5
+Time of computation: 24.173879 seconds
+For the number of threads 2, calculation 5 of 5
+Time of computation: 24.368209 seconds
+The average time of computation for 2 threads is: 24.310950 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 4, calculation 1 of 5
+Time of computation: 12.772917 seconds
+For the number of threads 4, calculation 2 of 5
+Time of computation: 12.703085 seconds
+For the number of threads 4, calculation 3 of 5
+Time of computation: 12.476980 seconds
+For the number of threads 4, calculation 4 of 5
+Time of computation: 12.349699 seconds
+For the number of threads 4, calculation 5 of 5
+Time of computation: 12.396338 seconds
+The average time of computation for 4 threads is: 12.539804 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 8, calculation 1 of 5
+Time of computation: 7.504232 seconds
+For the number of threads 8, calculation 2 of 5
+Time of computation: 7.682804 seconds
+For the number of threads 8, calculation 3 of 5
+Time of computation: 7.983048 seconds
+For the number of threads 8, calculation 4 of 5
+Time of computation: 7.958127 seconds
+For the number of threads 8, calculation 5 of 5
+Time of computation: 7.741393 seconds
+The average time of computation for 8 threads is: 7.773921 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 16, calculation 1 of 5
+Time of computation: 4.013245 seconds
+For the number of threads 16, calculation 2 of 5
+Time of computation: 4.047544 seconds
+For the number of threads 16, calculation 3 of 5
+Time of computation: 4.078047 seconds
+For the number of threads 16, calculation 4 of 5
+Time of computation: 4.084424 seconds
+For the number of threads 16, calculation 5 of 5
+Time of computation: 4.067617 seconds
+The average time of computation for 16 threads is: 4.058175 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 32, calculation 1 of 5
+Time of computation: 2.089596 seconds
+For the number of threads 32, calculation 2 of 5
+Time of computation: 2.097983 seconds
+For the number of threads 32, calculation 3 of 5
+Time of computation: 2.076629 seconds
+For the number of threads 32, calculation 4 of 5
+Time of computation: 2.064045 seconds
+For the number of threads 32, calculation 5 of 5
+Time of computation: 2.074274 seconds
+The average time of computation for 32 threads is: 2.080506 seconds
+
+
+-------------------------------------------------------------
+
+Program finished successfully

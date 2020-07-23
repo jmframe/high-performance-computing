@@ -1,0 +1,361 @@
+For the number of threads 1, calculation 1 of 5
+Time of computation: 53.785327 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 1, calculation 2 of 5
+Time of computation: 53.667642 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 1, calculation 3 of 5
+Time of computation: 53.545881 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 1, calculation 4 of 5
+Time of computation: 49.962234 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 1, calculation 5 of 5
+Time of computation: 41.558248 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+The average time of computation for 1 threads is: 50.503866 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 2, calculation 1 of 5
+Time of computation: 15.324421 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 2, calculation 2 of 5
+Time of computation: 15.560151 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 2, calculation 3 of 5
+Time of computation: 15.452551 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 2, calculation 4 of 5
+Time of computation: 14.954943 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 2, calculation 5 of 5
+Time of computation: 14.858722 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+The average time of computation for 2 threads is: 15.230158 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 4, calculation 1 of 5
+Time of computation: 7.523644 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 4, calculation 2 of 5
+Time of computation: 7.539053 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 4, calculation 3 of 5
+Time of computation: 7.560786 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 4, calculation 4 of 5
+Time of computation: 7.820188 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 4, calculation 5 of 5
+Time of computation: 7.663873 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+The average time of computation for 4 threads is: 7.621509 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 8, calculation 1 of 5
+Time of computation: 4.017129 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 8, calculation 2 of 5
+Time of computation: 3.940192 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 8, calculation 3 of 5
+Time of computation: 3.900379 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 8, calculation 4 of 5
+Time of computation: 3.894901 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 8, calculation 5 of 5
+Time of computation: 3.905127 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+The average time of computation for 8 threads is: 3.931546 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 16, calculation 1 of 5
+Time of computation: 1.988552 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 16, calculation 2 of 5
+Time of computation: 1.981109 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 16, calculation 3 of 5
+Time of computation: 1.979852 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 16, calculation 4 of 5
+Time of computation: 1.978364 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 16, calculation 5 of 5
+Time of computation: 1.980753 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+The average time of computation for 16 threads is: 1.981726 seconds
+
+
+-------------------------------------------------------------
+
+For the number of threads 32, calculation 1 of 5
+Time of computation: 0.926920 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 32, calculation 2 of 5
+Time of computation: 0.916827 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 32, calculation 3 of 5
+Time of computation: 0.919729 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 32, calculation 4 of 5
+Time of computation: 0.916678 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+For the number of threads 32, calculation 5 of 5
+Time of computation: 0.918765 seconds
+Matrix A: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix B: 
+1.000000	1.000000	
+1.000000	1.000000	
+Matrix C: 
+2000.000000	2000.000000	
+2000.000000	2000.000000	
+The average time of computation for 32 threads is: 0.919784 seconds
+
+
+-------------------------------------------------------------
+
+Program finished successfully

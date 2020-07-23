@@ -1,0 +1,11 @@
+#!/bin/bash -l
+#BATCH -q defq
+#SBATCH -N 2
+#SBATCH -n 64 
+#SBATCH -t 00:20:00
+#SBATCH --exclude=gpu01
+#SBATCH -J jmframe_sp19hpc_hw3_part2
+#SBATCH -o results/OUT_sieve2_p064.%j.out
+#SBATCH -e results/ERR_sieve2_p064.%j.error
+
+mpirun ./program_sieve2 10000000000 
